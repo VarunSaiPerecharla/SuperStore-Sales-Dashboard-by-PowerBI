@@ -1,4 +1,4 @@
-# SuperStore_sales-by-PowerBI
+# SuperStore Sales Dashboard by PowerBI
 An interactive Power BI dashboard for analyzing and visualizing Super Store sales performance.
 
 # Overview
