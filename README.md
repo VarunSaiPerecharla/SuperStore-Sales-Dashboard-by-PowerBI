@@ -10,5 +10,4 @@ This Power BI dashboard provides insights into Super Store sales data, allowing 
 3.Performance Metrics: View sales, profit, top categories at a glance.
 
 # Requirements
-Power BI Desktop.
-Sample Super Store Dataset.
+Power BI Desktop, Sample Super Store Dataset.
